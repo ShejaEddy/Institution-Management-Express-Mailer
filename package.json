@@ -10,7 +10,7 @@
   "author": "Sheja Eddy",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "connect-history-api-fallback": "^1.6.0",
     "connect-mongodb-session": "^2.1.1",
